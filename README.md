@@ -7,7 +7,7 @@
 ## Deployed Website
 
 ## Github Repository URL
-
+https://github.com/JakeDeines/React-Portfolio/blob/main/README.md
 
 ## Deployed Website Image
 ![react port pic 1](https://user-images.githubusercontent.com/67669417/103852828-8f3b2580-5061-11eb-93d0-29ee862452f8.PNG)
